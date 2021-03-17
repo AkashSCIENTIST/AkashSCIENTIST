@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Bachelor's degree
 - 💞️ I’m looking to collaborate on FANG 
 - 📫 How to reach me : mail me at spakash182@gmail.com
+- 🚀 My sample works below 
+- ✈ URL Shortner https://synday-f21da.web.app/
+- 🛴 Realtime HTML editor https://jarvis-a6352.web.app/
 
 <!---
 AkashSCIENTIST/AkashSCIENTIST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
