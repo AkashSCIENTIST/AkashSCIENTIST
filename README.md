@@ -1,4 +1,4 @@
-<span style="font-family:\"Product Sans\"">
+
 - 👋 Hi, I’m Akash
 - 👀 I’m interested in Machine Learning along with Data Science
 - 🌱 I’m currently learning Bachelor's degree at PSG Tech, Coimbatore
@@ -7,7 +7,7 @@
 - 🚀 My sample works below 
 - ✈ *[URL Shortner](https://synday-f21da.web.app)*
 - 🛴 *[Realtime HTML editor](https://jarvis-a6352.web.app)*
-</span>
+
 
 <!---
 AkashSCIENTIST/AkashSCIENTIST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
