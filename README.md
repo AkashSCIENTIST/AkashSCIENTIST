@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Akash
-- 👀 I’m interested in Machine Learning along with Data Science
-- 🌱 I’m currently learning Bachelor's degree at PSG Tech, Coimbatore
-- 💞️ I’m looking to collaborate on FAANG 
+- 👀 Machine Learning Enthusiast
+- 🌱 I’m currently pursuing Bachelor's degree at PSG Tech, Coimbatore
+- 💞️ I’m looking to collaborate on MAANG 
 - 📫 How to reach me : mail me at spakash182@gmail.com
 - 🚀 My sample works below 
 - ✈ *[URL Shortner](https://synday-f21da.web.app)*
