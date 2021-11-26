@@ -3,6 +3,7 @@
 - 👀 Machine Learning Enthusiast
 - 🌱 I’m currently pursuing Bachelor's degree at PSG Tech, Coimbatore
 - 💞️ I’m looking to collaborate on MAANG 
+- 💡  My LinkedIn profile : *[akash-s-p](https://www.linkedin.com/in/akash-s-p/)*
 - 📫 How to reach me : mail me at spakash182@gmail.com
 - 🚀 My sample works below 
 - ✈ *[URL Shortner](https://synday-f21da.web.app)*
