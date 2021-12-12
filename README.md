@@ -7,9 +7,11 @@
 - ✈ *[URL Shortner](https://synday-f21da.web.app)*
 - 🛴 *[Realtime HTML editor](https://jarvis-a6352.web.app)*
 
-<p width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashSCIENTIST" width="60%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSCIENTIST" width="35%">
+<p align="center">
+<a href="https://github.com/AkashSCIENTIST">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkashSCIENTIST&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkashSCIENTIST&layout=compact&langs_count=8"/>
+</a>
 </p>
 
 ## 💡 Skills <img src="https://c.tenor.com/OBWnOrsAz9QAAAAi/light-bulb-idea.gif" height="30" />
