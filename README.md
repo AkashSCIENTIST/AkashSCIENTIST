@@ -1,11 +1,11 @@
-# Hello, Everyone! <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="35" height="35"/>
-- 👋 I’m Akash
-- 👀 Machine Learning Enthusiast
-- 🌱 I’m currently pursuing Bachelor's degree at PSG Tech, Coimbatore
-- 💞️ I’m looking to collaborate on MAANG 
-- 🚀 My sample works below 
-- ✈ *[URL Shortner](https://synday-f21da.web.app)*
-- 🛴 *[Realtime HTML editor](https://jarvis-a6352.web.app)*
+# Hi, I am Akash! <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="35" height="35"/>
+<div>
+<ul>
+<li>👀 Machine Learning Enthusiast</li>
+<li>🌱 I’m currently pursuing Bachelor's degree at PSG Tech, Coimbatore</li>
+<li>💞️ I’m looking to collaborate on MAANG</li>
+</ul>
+</div>
 
 <p align="center">
 <a href="https://github.com/AkashSCIENTIST">
@@ -13,6 +13,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkashSCIENTIST&layout=compact&langs_count=8"/>
 </a>
 </p>
+
+## Sample Projects
+[![](https://img.shields.io/badge/URL-Redirector-FAFAFA?style=for-the-badge&logo=URL-Redirector&logoColor=black)](https://synday-f21da.web.app)
+[![](https://img.shields.io/badge/O-Editor-FAFAFA?style=for-the-badge&logo=O-Editor&logoColor=black)](https://jarvis-a6352.web.app)
 
 ## 💡 Skills <img src="https://c.tenor.com/OBWnOrsAz9QAAAAi/light-bulb-idea.gif" height="30" />
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
