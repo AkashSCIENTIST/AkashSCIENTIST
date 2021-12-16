@@ -14,11 +14,11 @@
 </a>
 </p>
 
-## Sample Projects
-[![](https://img.shields.io/badge/URL-Redirector-FAFAFA?style=for-the-badge&logo=URL-Redirector&logoColor=black)](https://synday-f21da.web.app)
-[![](https://img.shields.io/badge/O-Editor-FAFAFA?style=for-the-badge&logo=O-Editor&logoColor=black)](https://jarvis-a6352.web.app)
+### 👨‍💻 Sample Projects
+[![](https://img.shields.io/badge/URL_Redirector-FAFAFA?style=for-the-badge&logo=URL-Redirector&logoColor=blue)](https://synday-f21da.web.app)
+[![](https://img.shields.io/badge/O_Editor-FAFAFA?style=for-the-badge&logo=O-Editor&logoColor=FAFAFA)](https://jarvis-a6352.web.app)
 
-## 💡 Skills <img src="https://c.tenor.com/OBWnOrsAz9QAAAAi/light-bulb-idea.gif" height="30" />
+### 💡 Skills <img src="https://c.tenor.com/OBWnOrsAz9QAAAAi/light-bulb-idea.gif" height="30" />
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-## 🛠️ Workspace <img src="https://c.tenor.com/a4eVqMeDRBoAAAAi/go-virtuals-go-virtuals-philippines.gif" height="30" />
+### 🛠️ Workspace <img src="https://c.tenor.com/a4eVqMeDRBoAAAAi/go-virtuals-go-virtuals-philippines.gif" height="30" />
 ![](https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -49,7 +49,7 @@
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
-## 📫 Connect with me <img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" height="30" />
+### 📫 Connect with me <img src="https://c.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" height="30" />
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spakash182@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-s-p/)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/spakash182)
