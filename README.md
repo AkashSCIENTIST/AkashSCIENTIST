@@ -14,10 +14,6 @@
 </a>
 </p>
 
-### 👨‍💻 Sample Projects
-[![](https://img.shields.io/badge/URL_Redirector-FAFAFA?style=for-the-badge&logo=URL-Redirector&logoColor=blue)](https://synday-f21da.web.app)
-[![](https://img.shields.io/badge/O_Editor-FAFAFA?style=for-the-badge&logo=O-Editor&logoColor=FAFAFA)](https://jarvis-a6352.web.app)
-
 ### 💡 Skills <img src="https://c.tenor.com/OBWnOrsAz9QAAAAi/light-bulb-idea.gif" height="30" />
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
