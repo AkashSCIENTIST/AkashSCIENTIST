@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="40" height="40"/> , I'm Akash</h1>
 <h3 align="center">Machine Learning Enthusiast. Sophomore at PSG Tech.</h3>
 
 - 🌱 I’m currently learning **MERN stack and Machine Learning**
