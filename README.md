@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px">, I'm Akash</h1>
 <h3 align="center">Machine Learning Enthusiast. Sophomore at PSG Tech.</h3>
 
 - 🌱 I’m currently learning **MERN stack and Machine Learning**
