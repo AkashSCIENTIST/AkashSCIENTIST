@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px">, I'm Akash</h1>
-<h3 align="center">Machine Learning Enthusiast. Sophomore at PSG Tech.</h3>
+<h3 align="center">Data Science Enthusiast. Sophomore at PSG Tech.</h3>
 
-- 🌱 I’m currently learning **MERN stack and Machine Learning**
+- 🌱 I’m currently learning **MERN stack and Data Science**
 
 - 📫 How to reach me **spakash182@gmail.com**
 
