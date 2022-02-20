@@ -36,7 +36,12 @@
 
 <p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSCIENTIST&layout=compact&hide=html&hide_border=true">
 <br>
-<img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSCIENTIST&theme=vue">
-<img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSCIENTIST&theme=vue">
+<img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSCIENTIST&theme=vue" alt="">
+<img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSCIENTIST&theme=vue" alt="">
+<img stc="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashSCIENTIST&theme=vue" alt="">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSCIENTIST&theme=vue" alt="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSCIENTIST&theme=vue" alt="">
+
 </p>
+
 
