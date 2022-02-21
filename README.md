@@ -26,7 +26,7 @@
 
 <div align="center">
 <h3>GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=AkashSCIENTIST"></img>
+<img src="https://github-profile-trophy.vercel.app/?username=AkashSCIENTIST&theme=vue"></img>
 </div>
 
 <br>
