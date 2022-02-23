@@ -15,15 +15,13 @@
 <p align="center">
 <a href="https://twitter.com/spakash182" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spakash182" height="30" width="40" />
- 
 <a href="https://linkedin.com/in/akash-s-p" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-s-p" height="30" width="40" />
- 
 <a href="https://instagram.com/akash_karthikeyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_karthikeyan" height="30" width="40" /> 
 <a href="https://www.hackerrank.com/spakash182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="spakash182" height="30" width="40" /> 
 <a href="https://codeforces.com/profile/spakash182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="spakash182" height="30" width="40" /> 
 <a href="https://www.leetcode.com/spakash182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spakash182" height="30" width="40" /> 
-<a href="https://www.hackerearth.com/@akash5509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akash5509" height="30" width="40" /> 
+<!--a href="https://www.hackerearth.com/@akash5509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akash5509" height="30" width="40" /--> 
 <a href="https://discord.gg/spakash182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spakash182" height="30" width="40" /> 
 </p>
 <br>
