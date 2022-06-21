@@ -28,7 +28,11 @@
 
 <div align="center">
 <h3>GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=AkashSCIENTIST"></img>
+<p align="center">
+  <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
+    <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSCIENTIST&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
+  </a>
+</p>
 </div>
 
 <br>
@@ -37,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
