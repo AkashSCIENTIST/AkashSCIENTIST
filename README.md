@@ -61,12 +61,13 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 <br>
-
-<p align="center"> <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSCIENTIST&layout=compact&hide=html&hide_border=true">
-<br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSCIENTIST&theme=vue" alt="">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSCIENTIST&theme=vue" alt="">
-    <img stc="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashSCIENTIST&theme=vue" alt="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSCIENTIST&theme=vue" alt="">
+<p>
+<div align="center">
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSCIENTIST&layout=compact&hide=html&hide_border=true" height=200>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSCIENTIST&theme=vue" alt="" height=200>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSCIENTIST&theme=vue" alt="" height=200>
+    <img stc="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashSCIENTIST&theme=vue" alt="" height=200>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSCIENTIST&theme=vue" alt="" height=200>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSCIENTIST&theme=vue" alt="">
+</div>
 </p>
