@@ -29,9 +29,7 @@
 <div align="center">
 <h3>GitHub Trophies</h3>
 <p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSCIENTIST&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
-  </a>
+  <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSCIENTIST&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
 </p>
 </div>
 
