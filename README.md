@@ -26,12 +26,12 @@
 </p>
 <br>
 
-<div align="center">
+<!-- <div align="center">
 <h3>GitHub Trophies</h3>
 <p align="center">
   <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSCIENTIST&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
 </p>
-</div>
+</div> -->
 
 <br>
 <h3 align="center">Languages and Tools:</h3>  
