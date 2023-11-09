@@ -2,7 +2,7 @@
 <!--<h3 align="center">Data Science Enthusiast. Sophomore at PSG Tech.</h3>-->
 <div align="center">
   
-🌱 I’m currently learning **MERN stack and Data Science** 🌱
+<!-- 🌱 I’m currently learning **MERN stack and Data Science** 🌱 -->
 <br>
 📫 How to reach me **spakash182@gmail.com** 📫
 <br>
