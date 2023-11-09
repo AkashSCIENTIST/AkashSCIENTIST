@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="Hi.gif" width="32px" height="32px">, I'm Akash</h1>
+<!--<h1 align="center">Hi <img src="Hi.gif" width="32px" height="32px">, I'm Akash</h1>-->
 <h3 align="center">Data Science Enthusiast. Sophomore at PSG Tech.</h3>
 <div align="center">
   
